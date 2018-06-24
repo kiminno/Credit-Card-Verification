@@ -1,0 +1,7 @@
+\\2522-CMS-01\2522 Students$\535887\Documents\Visual Studio 2010\Projects\creditCardVerification\creditCardVerification\bin\Release\creditCardVerification.exe
+\\2522-CMS-01\2522 Students$\535887\Documents\Visual Studio 2010\Projects\creditCardVerification\creditCardVerification\bin\Release\creditCardVerification.pdb
+\\2522-CMS-01\2522 Students$\535887\Documents\Visual Studio 2010\Projects\creditCardVerification\creditCardVerification\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+\\2522-CMS-01\2522 Students$\535887\Documents\Visual Studio 2010\Projects\creditCardVerification\creditCardVerification\obj\x86\Release\creditCardVerification.csproj.GenerateResource.Cache
+\\2522-CMS-01\2522 Students$\535887\Documents\Visual Studio 2010\Projects\creditCardVerification\creditCardVerification\obj\x86\Release\creditCardVerification.exe
+\\2522-CMS-01\2522 Students$\535887\Documents\Visual Studio 2010\Projects\creditCardVerification\creditCardVerification\obj\x86\Release\creditCardVerification.pdb
+\\2522-CMS-01\2522 Students$\535887\Documents\Visual Studio 2010\Projects\creditCardVerification\creditCardVerification\obj\x86\Release\WindowsFormsApplication1.CreditCardForm.resources
